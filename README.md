@@ -7,3 +7,4 @@ Blue is my favorite color.
 
 I prefer coffee much better than tea.
 
+Step 6: Pull changes
